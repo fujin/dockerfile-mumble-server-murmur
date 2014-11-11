@@ -1,0 +1,17 @@
+<W>2014-11-12 10:46:44.804 Initializing settings from /home/aj/workspace/dockerfile-mumble-server-murmur/murmur.ini (basepath /home/aj/workspace/dockerfile-mumble-server-murmur)
+<W>2014-11-12 10:46:44.821 OpenSSL: OpenSSL 1.0.0n 6 Aug 2014
+<W>2014-11-12 10:46:44.938 ServerDB: Opened SQLite database /home/aj/workspace/dockerfile-mumble-server-murmur/murmur.sqlite
+<W>2014-11-12 10:46:44.939 Generating new tables...
+<W>2014-11-12 10:46:44.971 Murmur 1.2.8 (1.2.8) running on X11: Arch Linux: Booting servers
+<W>2014-11-12 10:46:44.987 1 => Password for 'SuperUser' set to '5~%11(Q8R?J'
+<W>2014-11-12 10:46:45.011 1 => Server listening on [::]:64738
+<W>2014-11-12 10:46:45.018 1 => Generating new server certificate.
+<W>2014-11-12 10:46:45.124 1 => Announcing server via bonjour
+<W>2014-11-12 10:46:45.130 1 => Not registering server as public
+<W>2014-11-12 10:46:45.130 Object::connect: No such slot MurmurDBus::userTextMessage(const User *, const TextMessage &)
+<W>2014-11-12 10:46:48.708 Initializing settings from /home/aj/workspace/dockerfile-mumble-server-murmur/murmur.ini (basepath /home/aj/workspace/dockerfile-mumble-server-murmur)
+<W>2014-11-12 10:46:48.729 OpenSSL: OpenSSL 1.0.0n 6 Aug 2014
+<W>2014-11-12 10:46:48.887 ServerDB: Opened SQLite database /home/aj/workspace/dockerfile-mumble-server-murmur/murmur.sqlite
+<W>2014-11-12 10:46:48.894 Murmur 1.2.8 (1.2.8) running on X11: Arch Linux: Booting servers
+<W>2014-11-12 10:46:48.902 1 => Server: TCP Listen on [::]:64738 failed: The bound address is already in use
+<W>2014-11-12 10:46:48.906 1 => Stopped
